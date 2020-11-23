@@ -1,2 +1,2 @@
-# zubairkcoder.github.com
+# zubairkcoder.github.io
 A Web Developer
