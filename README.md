@@ -22,3 +22,8 @@
 
 <p>Progress in life goal(50%)<meter min="0" max="100" value="50">50%></meter></p>
 
+<h2>More About Myself</h2>
+<details>
+ <summary>My Childhood</summary>
+ 	<p>I was born and raised in Pune. When I was born me and my parents used to live on rent. And after I pass my primary school we shifted to our new house which was our dream to have one. I completed my 10th grade from Saint Joseph's High School, Khadki. And I took admission for my junior college at Nowrosjee Wadia College, Pune. Now I am studying CSE at Maharashtra Institute of Technology World Peace University, Kothrud.
+    </details>
