@@ -1,6 +1,5 @@
 # Zubair Kazi
-    Hello Guys Welcome to my Website. My name is Zubair Kazi. I am a Web Developer and a student of MITWPU.
-    Currently I am in T.Y.Btech CSE and will be passing out in the year 2022.   
+  <body bgcolor=#03fccf>   
  <h1>Zubair Nasir Kazi</h1>
 <p><b>Hello There!!! My name is Zubair Kazi. Currently I am living in India and pursuing by B.Tech Degree from MIT World Peace University. I am interested in Web Development and my hobbies are photography and playing cricket.</b><p>
 
