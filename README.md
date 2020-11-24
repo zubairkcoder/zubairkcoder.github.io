@@ -13,4 +13,12 @@
  <h3>
  <a href = "https://goo.gl/maps/QfFa2iYp2vp3sH7b9"><b> I Live Here</b></a>
 </h3>
+	
+<h2>Achievements</h2>
+
+<p>Progress in the course(100%)<meter min="0" max="100" value="100">100%></meter></p>
+
+<p>Progress in the Specialization capstone(20%)<meter min="0" max="100" value="20">20%></meter></p>
+
+<p>Progress in life goal(50%)<meter min="0" max="100" value="50">50%></meter></p>
 
