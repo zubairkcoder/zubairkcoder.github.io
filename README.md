@@ -1,5 +1,9 @@
   
  <h1>Zubair Nasir Kazi</h1>
+ <a href = "https://www.coursera.org/learn/html/lecture/iFxeJ/03-06-final-project-demo">One</a>
+<a href = "https://www.coursera.org/learn/html/lecture/d6Pha/03-01-accessibility">Two</a>
+<a href = "https://www.coursera.org/learn/html/lecture/m1BQg?t=231">Three</a>
+<a href = "https://zubairkcoder.github.io/">Github</a>
 <p><b>Hello There!!! My name is Zubair Kazi. Currently I am living in India and pursuing by B.Tech Degree from MIT World Peace University.I will be passing out in the year 2022. I am interested in Web Development and my hobbies are photography and playing cricket.</b><p>
 
 <h2>Favorite Foods</h2>
