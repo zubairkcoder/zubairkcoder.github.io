@@ -34,7 +34,7 @@
 
 <br>
 
-<p><b>This page is created by Zubair Kazi. To learn more about web design, visit<a href = "http://intro-webdesign.com">Intro to Web Design.
+<p><b>This page is created by Zubair Kazi. To learn more about web design, visit <a href = "http://intro-webdesign.com">Intro to Web Design.
 <!--Please open all the links on the new tab-->
 
 
