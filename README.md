@@ -1,9 +1,12 @@
   
  <h1>Zubair Nasir Kazi</h1>
-<a href = "https://www.instagram.com/zubair_kazi11/">Instagram</a>
-<a href = "https://www.facebook.com/zubair.kazi.71/">Facebook</a>
-<a href = "https://www.linkedin.com/in/zubair-kazi-727344192/">Linkdin</a>
-<a href = "https://zubairkcoder.github.io/">Github</a>
+ <h3>Please visit my social media to know more:-<h3>
+	 <ul>
+		<li><a href = "https://www.instagram.com/zubair_kazi11/">Instagram</a></li>
+		<li><a href = "https://www.facebook.com/zubair.kazi.71/">Facebook</a></li>
+		<li><a href = "https://www.linkedin.com/in/zubair-kazi-727344192/">Linkdin</a></li>
+		<li><a href = "https://zubairkcoder.github.io/">Github</a></li>
+	</ul>
 <p><b>Hello There!!! My name is Zubair Kazi. Currently I am living in India and pursuing by B.Tech Degree from MIT World Peace University.I will be passing out in the year 2022. I am interested in Web Development and my hobbies are photography and playing cricket.</b><p>
 
 <h2>Favorite Foods</h2>
