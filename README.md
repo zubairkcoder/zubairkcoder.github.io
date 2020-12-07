@@ -6,7 +6,6 @@ body {
   background-size: 100% 100%;
 }
 </style>
-</body>
  <h1><b>Zubair Nasir Kazi</b></h1>
 	<h3>Please visit my social media to know more about me:-</h3>
 	<br>
@@ -87,8 +86,7 @@ body {
 		</p>
 	</footer>
 
-</body>
-</html>
+
 
 
 
